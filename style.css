@@ -155,7 +155,7 @@ body {
     transform: translate(-50%, -100%);
     width: 8vmin;
     height: 8vmin;
-    background-color: #ddeb1a69;
+    background-color: #1aa9ebfb;
     filter: blur(10vmin);
 }
 
@@ -191,7 +191,7 @@ body {
     transform-origin: bottom left;
     border-radius: 4vmin 10vmin 4vmin 4vmin;
     transform: translate(0%, 18%) rotateX(70deg) rotate(-43deg);
-    background-image: linear-gradient(to top, #2290ac, #2a91a3);
+    background-image: linear-gradient(to top, #a3ac22, #a1a32a);
     z-index: 1;
     opacity: 0.8;
 }
