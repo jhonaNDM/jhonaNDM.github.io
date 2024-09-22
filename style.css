@@ -520,7 +520,7 @@ body {
 .flower__g-long {
     --w: 2vmin;
     --h: 6vmin;
-    --c: #0eb8ec;
+    --c: #e8ec0e;
     position: absolute;
     bottom: 10vmin;
     left: -3vmin;
