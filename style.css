@@ -236,7 +236,7 @@ body {
     height: var(--h);
     border-top-right-radius: var(--h);
     border-bottom-left-radius: var(--h);
-    background-image: linear-gradient(to top, rgba(9, 196, 243, 0.877), #4bd4ec);
+    background-image: linear-gradient(to top, rgba(10, 217, 231, 0.877), #4bd4ec);
 }
 
 .flower__line__leaf--1 {
@@ -282,14 +282,14 @@ body {
     bottom: 0vmin;
     width: 1vmin;
     height: 1vmin;
-    background-color: rgb(255, 251, 0);
+    background-color: rgb(0, 217, 255);
     border-radius: 50%;
     filter: blur(0.2vmin);
     animation: light-ans 4s linear infinite backwards;
 }
 
 .flower__light:nth-child(odd) {
-    background-color: #eedf12;
+    background-color: #12eeee;
 }
 
 .flower__light--1 {
