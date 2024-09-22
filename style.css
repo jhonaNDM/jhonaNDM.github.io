@@ -167,7 +167,7 @@ body {
     height: 11vmin;
     border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
     background-color: #ecdc47;
-    background-image: linear-gradient(to top, #e4f317, #e7e960);
+    background-image: linear-gradient(to top, #17ecf3, #e7e960);
     transform-origin: bottom center;
     opacity: 0.9;
     box-shadow: inset 0 0 2vmin rgba(255, 255, 255, 0.5);
@@ -191,7 +191,7 @@ body {
     transform-origin: bottom left;
     border-radius: 4vmin 10vmin 4vmin 4vmin;
     transform: translate(0%, 18%) rotateX(70deg) rotate(-43deg);
-    background-image: linear-gradient(to top, #eed027, #f1e752);
+    background-image: linear-gradient(to top, #27c6ee, #52d9f1);
     z-index: 1;
     opacity: 0.8;
 }
@@ -282,14 +282,14 @@ body {
     bottom: 0vmin;
     width: 1vmin;
     height: 1vmin;
-    background-color: rgb(0, 217, 255);
+    background-color: rgb(255, 251, 0);
     border-radius: 50%;
     filter: blur(0.2vmin);
     animation: light-ans 4s linear infinite backwards;
 }
 
 .flower__light:nth-child(odd) {
-    background-color: #12eeee;
+    background-color: #eaee12;
 }
 
 .flower__light--1 {
