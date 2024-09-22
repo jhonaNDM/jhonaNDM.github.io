@@ -644,7 +644,7 @@ body {
 .flower__g-front__line {
     width: 0.3vmin;
     height: 20vmin;
-    background-image: linear-gradient(to top, transparent, #dacc0d, transparent 100%);
+    background-image: linear-gradient(to top, transparent, #0d99da, transparent 100%);
     position: relative;
 }
 
@@ -917,7 +917,7 @@ body {
 
 .long-g--2 .leaf,
 .long-g--3 .leaf {
-    -webkit-mask-image: linear-gradient(to top, transparent 50%, #978d07 80%) !important;
+    -webkit-mask-image: linear-gradient(to top, transparent 50%, #077a97 80%) !important;
 }
 
 .long-g--2 .leaf--1,
@@ -932,7 +932,7 @@ body {
 }
 
 .long-g--3 .leaf {
-    -webkit-mask-image: linear-gradient(to top, transparent 40%, #819707 80%) !important;
+    -webkit-mask-image: linear-gradient(to top, transparent 40%, #077a97 80%) !important;
 }
 
 .long-g--4 {
