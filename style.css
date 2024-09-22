@@ -574,9 +574,9 @@ body {
     width: 30vmin;
     height: 50vmin;
     border-top-left-radius: 100%;
-    border-left: 2vmin solid #f4f812;
+    border-left: 2vmin solid #127df8;
     background-image: linear-gradient(to bottom, transparent, var(--dark-color) 60%);
-    -webkit-mask-image: linear-gradient(to top, transparent 30%, #eeea10 60%);
+    -webkit-mask-image: linear-gradient(to top, transparent 30%, #1083ee 60%);
 }
 
 .flower__g-right--1 {
