@@ -236,7 +236,7 @@ body {
     height: var(--h);
     border-top-right-radius: var(--h);
     border-bottom-left-radius: var(--h);
-    background-image: linear-gradient(to top, rgba(243, 239, 9, 0.877), #eaec4b);
+    background-image: linear-gradient(to top, rgba(9, 196, 243, 0.877), #4bd4ec);
 }
 
 .flower__line__leaf--1 {
@@ -333,7 +333,7 @@ body {
 }
 
 .flower__grass {
-    --c: #f5e71e;
+    --c: #1ed5f5;
     --line-w: 1.5vmin;
     position: absolute;
     bottom: 12vmin;
@@ -520,7 +520,7 @@ body {
 .flower__g-long {
     --w: 2vmin;
     --h: 6vmin;
-    --c: #e9ec0e;
+    --c: #0eb8ec;
     position: absolute;
     bottom: 10vmin;
     left: -3vmin;
